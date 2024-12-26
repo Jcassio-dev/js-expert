@@ -1,0 +1,15 @@
+nvm install --lts -> install long-term support version (recommended)
+
+nvm list -> list node 
+
+.nvmrc -> define project node version
+
+nvm use -> catch .nvmrc version and install this version
+
+nvm use xx.xx-> switch version
+
+nvm alias default xx.xx -> define compute default node version
+
+node -v > .nvmrc -> save the project version recommended
+
+package.json prop engine "node" -> define the node version for project 

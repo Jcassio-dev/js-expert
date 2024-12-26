@@ -1,0 +1,8 @@
+file rules
+fields:
+    id 
+    name
+    professions
+    age
+NOT BE EMPTY
+NOT BE LONGER THAN 4 LINES INCLUDING HEADERS
