@@ -1,0 +1,20 @@
+{
+  "name": "04-e2e-coverage",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node src/api.js",
+    "test:dev": "npx mocha -w **/*.test.js",
+    "test": "npx mocha **/*.test.js",
+    "test:cov": "npx nyc npx mocha **/*.test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "mocha": "^11.7.5",
+    "supertest": "^7.2.2"
+  }
+}

@@ -1,0 +1,1 @@
+{"processes":{"7ebff9b5-d37b-4595-93a2-3057ccb4f827":{"parent":"9487ce02-2894-422f-99a2-d0c57203bbd7","children":[]},"9487ce02-2894-422f-99a2-d0c57203bbd7":{"parent":null,"children":["7ebff9b5-d37b-4595-93a2-3057ccb4f827"]}},"files":{"/home/ksion/www/js-expert/01-Javascript-Testing/04-e2e-coverage/src/api.js":["7ebff9b5-d37b-4595-93a2-3057ccb4f827"]},"externalIds":{}}
