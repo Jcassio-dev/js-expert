@@ -1,0 +1,16 @@
+[
+  {
+    "id": "7476070f-73de-4767-b73f-b9c76f6b6da3",
+    "name": "Wrangler",
+    "releaseYear": 2026,
+    "available": true,
+    "gasAvailable": true
+  },
+  {
+    "id": "8dc50a7a-2aae-4a1f-8abd-213ac3bf925f",
+    "name": "A8",
+    "releaseYear": 2025,
+    "available": true,
+    "gasAvailable": true
+  }
+]
